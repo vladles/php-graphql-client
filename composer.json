@@ -1,5 +1,5 @@
 {
-    "name": "gmostafa/php-graphql-client",
+    "name": "vladles/php-graphql-client",
     "description": "GraphQL client and query builder.",
     "type": "library",
     "license": "MIT",
@@ -14,8 +14,8 @@
     ],
     "authors": [
         {
-            "name": "Mostafa Ghoneimy",
-            "email": "emostafagh@gmail.com"
+            "name": "Vlad Lesovskiy",
+            "email": "inbox@lesovskiy.com"
         }
     ],
     "autoload": {
